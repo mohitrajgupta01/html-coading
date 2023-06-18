@@ -1,0 +1,30 @@
+p{
+    color: #F5DEB3;
+}
+
+h1{
+    text-align: center;
+}
+h3{
+    text-align: center;
+}
+p{
+    text-align: center;
+    color: red;
+    line-height: 30px;
+    
+}
+ 
+
+ a{
+    color: greenyellow;
+    text-decoration-line: none;
+ }
+ button{
+    background-color: white;
+    color: blueviolet;
+}
+textarea{
+    color: #000000;
+}
+
