@@ -1,0 +1,30 @@
+.a{
+  height: 300px;
+  width: 300px;
+  border: 2px solid black;
+ margin: 10%;
+ border-radius: 5px;
+ box-shadow: 5px 5px 10px black;
+
+}
+img{
+  height: 50%;
+  width: 100%;
+  border-radius: 5px;
+}
+.b{
+  padding: 10px;
+  color:  red;
+  background-color: aqua;
+  font-style: italic;
+  text-decoration: dashed;
+}
+.a:hover{
+  transition: 1s;
+  box-shadow: 10px 10px 20px black;
+
+
+}
+dev.p{
+  background-color: black;
+}
